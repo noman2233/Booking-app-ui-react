@@ -1,0 +1,56 @@
+.search_component{
+background-color: rgb(255, 153, 0);
+margin: 0px 20px;
+border-radius: 10px;
+padding: 10px 0px;  position: sticky;
+top: 0;
+
+}
+.title_search{
+text-align: center;
+padding: 5px 0px;
+
+}
+.title_search h3{
+    font-size: 20;font-weight: 500;
+
+}
+.destination{
+    margin: auto 10px;
+}
+.input_search{
+padding: 7px 20px;
+margin: auto 10px;
+border-radius: 5px;
+border: 1px solid rgb(227, 224, 224);
+}
+.input_search:hover:focus{
+    outline: none;
+}
+
+.options_search{
+    margin: auto 10px;
+    font-size: 15px;
+}
+.max_price{
+    margin: auto 10px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+}
+.max_input{
+    width: 40px;
+    height: 20px;
+    margin: 0px 50px;
+   
+}
+.search_button{
+    padding: 10px 30px;
+    color: white;
+    background-color: #003580;
+    margin: 10px auto;
+    display: flex;
+    border: none;
+    border-radius: 5px;cursor: pointer;
+}

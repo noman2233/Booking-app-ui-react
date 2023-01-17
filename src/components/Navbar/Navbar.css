@@ -1,0 +1,21 @@
+.Navbar{
+background-color: #003580;
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 90px;
+
+}
+.logo{
+   font-size: 20px; 
+   list-style: none;
+   color: white;
+   font-weight: 600;
+}
+
+.navbar_buttons{
+    padding: 7px 10px;
+    color:#003580 ;
+    margin: 10px;
+    font-weight: 600;
+}

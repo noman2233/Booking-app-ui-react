@@ -1,0 +1,38 @@
+.featured_Properties{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.featured_Properties_title{
+    text-align: center;
+    
+}
+.featured_properties_item{
+    }
+.featured_properties_item_list{
+margin: 0px 10px;
+}
+.featured_properties_title{
+
+}
+.featured_properties_item_list_image{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.rating{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.rating_number{
+    background-color: #003580;
+    color:white;
+    border-radius: 50%;
+    width: 25px;
+    padding: 10px 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

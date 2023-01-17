@@ -1,0 +1,75 @@
+.list{
+
+}
+.Main_hotel_container{
+    display: flex;
+    margin: 30px 0px;
+   
+}
+.main_SearchComponent{
+    margin: 0px 0px 0px 60px;
+  
+}
+.listContainer{
+    
+}
+.list_wrapper{
+    display: flex;
+    flex: 7;
+    margin: 5px 20px;
+    border: 1px solid black;
+
+}
+.list_image{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: auto 10px;
+    
+}
+.list_details{
+    margin: 0px 20px;
+}
+.list_title_heading{
+    color: #003580;
+}
+.list_distance{
+
+}
+.free_list_offer{
+    background-color: green;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 15px;
+    width: fit-content;
+    padding: 0px 10px;
+}
+.dimensions{
+
+}
+.cancelation{
+    color: green;
+}
+.offer{
+color: green;
+}
+.performance_list{
+    margin: 0px 20px;
+}
+
+.rating_number_list{
+    background-color: #003580;
+    color: white;
+    
+}
+.price_list{
+    font-size: 20px;
+}
+.list_button{
+    padding: 5px 10px ;
+    background-color: #003580;
+    outline: none;
+    color: white;
+    border: none;cursor: pointer;
+}

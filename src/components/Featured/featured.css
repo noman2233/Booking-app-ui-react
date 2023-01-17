@@ -1,0 +1,30 @@
+
+.featured{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin-top: 70px;
+    
+}
+.featuredList{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 10px;
+
+}
+.featured_image{
+    width: 250px;
+    border-radius: 5px;
+    height: 200px;
+    object-fit: cover;
+
+}
+.featured_title{
+    position: absolute;
+    color: white;
+    top: 55px;
+    left: 20px;
+    font-size: 15px;
+}

@@ -1,0 +1,20 @@
+.property_list{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.property_list_items{
+    margin: 20px 10px;
+}
+.property_list_title{
+    margin: 20px;
+    text-align: center;
+}
+.property_list_items_images{
+    width: 150px;
+    height:150px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
